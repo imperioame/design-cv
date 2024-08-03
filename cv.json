@@ -6,7 +6,7 @@
     "email": "Hello@MarioA.me",
     "phone": "+54 911-5981-8605",
     "url": "http://MarioA.me",
-    "summary": "Designer and leader of digital projects. Entrepreneur and Technical by nature.",
+    "summary": "I'm a passionate Designer driven by curiosity and a love for creating engaging digital experiences. Known for wearing many hats and innovative problem-solving, I blend artistic vision with technical expertise in various successful projects. Beyond work, I explore new technologies and art forms, from game development to 3D art and photography. Always excited to connect and bring creative visions to life together.",
     "theme": "default",
     "location": {
       "address": "330D Pencarrow Road",
@@ -35,22 +35,25 @@
       "url": "https://www.behance.net/imperioame",
       "startDate": "2023-011-01",
       "endDate": null,
-      "summary": "XXXXXXXXXX",
+      "summary": "I have participated in several design projects while traveling throughout New Zealand, enhancing my client relationship skills by adapting to NZ's culture.",
       "highlights": [
-        "XXXXXXXXXX"
+        "Stay current in design by challenging myself to produce compelling outcomes."
       ],
       "responsibilities": [
-        "XXXXXXXXXX",
-        "XXXXXXXXXX",
-        "XXXXXXXXXX"
+        "Client and project management",
+        "End-to-end graphic and web design",
+        "Project and Account Management, including commercial negotiations with clients"
       ],
       "achievements": [
-        "XXXXXXXXXX"
+        "Assisted in establishing the brand identity for an industrial importing SME in Hamilton.",
+        "Redesigned the brand guidelines for a major fuel benefits card in Auckland.",
+        "Designed a prominent front-of-house banner for a leading recruitment agency in Auckland, visible from the street."
       ],
       "skills": [
-        "XXXXXXXXXX",
-        "XXXXXXXXXX",
-        "XXXXXXXXXX"
+        "Graphic design",
+        "Web design",
+        "Adobe Photoshop",
+        "Adobe Illustrator"
       ]
     },
     {
@@ -63,7 +66,7 @@
       "endDate": "2023-09-01",
       "summary": "Acted as main designer and head of IT projects, conceptualizing advertisements, designing audiovisual pieces as well as directing teams and projects.",
       "highlights": [
-        "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+        "Worked with a high-octane team fulled with creative and technical specialities to design and develop our projects."
       ],
       "responsibilities": [
         "End-to-end design and development of advertising campaigns.",
@@ -76,22 +79,29 @@
         "Da Vinci School: Co-produced the audiovisual pieces for BitBang-Fest 2020 and developed the visual identity, branding, and graphic and audiovisual content for social networks, YouTube, and the internal streaming platform."
       ],
       "skills": [
-        "XXXXXXXXXX",
-        "XXXXXXXXXX",
-        "XXXXXXXXXX",
-        "XXXXXXXXXX"
+        "Multimedia design",
+        "Audiovisual design",
+        "Graphic design",
+        "Adobe CC Suite",
+        "Photography",
+        "Video editing",
+        "Post production",
+        "Team leading",
+        "Web design",
+        "HTML/CSS"
       ]
     },
     {
       "name": "Argentine Ministry of Economy",
       "position": "Sr. QA Tester",
       "location_type": "On Site",
+      "url": "https://www.argentina.gob.ar/economia",
       "location": "Buenos Aires, Argentina",
       "startDate": "2020-06-01",
       "endDate": "2023-09-01",
       "summary": "Leader of the QA unit for an IT office in Government. I’ve built and developed the team from inception to serve as a pivotal point for all programs and developments within the office.",
       "highlights": [
-        "XXXXXXXXXX"
+        "Established a QA unit that enhanced the entire development process."
       ],
       "responsibilities": [
         "Conducted thorough testing of public policy systems to identify defects, ensure functionality, and enhance user experience.",
@@ -106,8 +116,12 @@
         "Assisted PM/POs with client management, addressing high rejection rates over all the programs involved, enhancing relationships by implementing stricter standards for the quantity and severity of defect reports permitted in each QA stance."
       ],
       "skills": [
-        "XXXXXXXXXX",
-        "XXXXXXXXXX"
+        "Manual testing",
+        "Automation testing",
+        "Project management",
+        "Team leading",
+        "Agile methodology",
+        "Stakeholder management"
       ]
     },
     {
@@ -119,9 +133,6 @@
       "url": "https://landru.org/",
       "endDate": "2022-07-01",
       "summary": "Head of the Digital office, leading the development of its main product, the 'Landrú library,' a repository of the artist's artwork.",
-      "highlights": [
-        "XXXXXXXXXX"
-      ],
       "responsibilities": [
         "Worked closely with the Foundation Director to assist in the ideation of the Landrú's digital presence, including defining the scope of IT and multimedia projects.",
         "Coordinated the effort of a small team composed by two developers, a functional analyst, and a UI designer to deliver on project goals and milestones in time.",
@@ -132,34 +143,12 @@
         "Implemented the organization’s official website, landru.org, revitalizing its online presence and adopting a newspaper-style approach to reconnect with the traditionalist audience."
       ],
       "skills": [
-        "XXXXXXXXXX",
-        "XXXXXXXXXX"
-      ]
-    },
-    {
-      "name": "Freelance",
-      "position": "Graphic Designer",
-      "location_type": "Remote",
-      "location": "Buenos Aires, Argentina",
-      "startDate": "2011-01-01",
-      "endDate": "2019-07-01",
-      "url": "https://behance.net/imperioame",
-      "summary": "Worked closely with clients, I’ve developed tailored solutions including Banners, book covers, stationery, brand books and more.",
-      "highlights": [
-        "XXXXXXXXXX"
-      ],
-      "responsibilities": [
-        "Provide tailored visual solutions for diverse clients, enhancing brand recognition.",
-        "Manage full project lifecycles, ensuring timely delivery and budget adherence."
-      ],
-      "achievements": [
-        "Gutierrez Hospital: Designed brand manual and brand guidelines for a well established volunteer service of a public hospital. \n View: https://www.behance.net/gallery/152780691/Manual-de-Marca-Voluntarias-del-Hospital-Gutierrez",
-        "SPIKA Brewery: Designed a beer can for an emerging brewery in Argentina. \n View: https://www.behance.net/gallery/175796205/Beer-can-design-Spika-Beer-Company",
-        "Designed stationery, flyers, book covers, banners, signs and clothing for a diverse range of clients."
-      ],
-      "skills": [
-        "XXXXXXXXXX",
-        "XXXXXXXXXX"
+        "Project management",
+        "Team leading",
+        "Agile methodology",
+        "Stakeholder management",
+        "Business analysis",
+        "Functional analysis"
       ]
     },
     {
@@ -170,9 +159,6 @@
       "startDate": "2016-11-01",
       "endDate": "2018-04-01",
       "summary": "Producer for a government program aimed to provide webinars of topics of interest for SMEs.",
-      "highlights": [
-        "XXXXXXXXXX"
-      ],
       "responsibilities": [
         "Conducting virtual training (webinars) for the 'Academia PyME' Program (https://www.argentina.gob.ar/produccion/capacitacion).",
         "Coordinating activity schedules, trainers/coaches for each session, and providing technical assistance for the operation of live streaming platforms."
@@ -182,8 +168,35 @@
         "Received national recognition for the success of our activities from Senior stakeholders at national wide scale."
       ],
       "skills": [
-        "XXXXXXXXXX",
-        "XXXXXXXXXX"
+        "Event management",
+        "Streaming technician",
+        "Live streaming",
+        "Stakeholder management"
+      ]
+    },    {
+      "name": "Freelance",
+      "position": "Graphic Designer",
+      "location_type": "Remote",
+      "location": "Buenos Aires, Argentina",
+      "startDate": "2011-01-01",
+      "endDate": "2019-07-01",
+      "url": "https://behance.net/imperioame",
+      "summary": "Worked closely with clients, I’ve developed tailored solutions including Banners, book covers, stationery, brand books and more.",
+      "responsibilities": [
+        "Provide tailored visual solutions for diverse clients, enhancing brand recognition.",
+        "Manage full project lifecycles, ensuring timely delivery and budget adherence."
+      ],
+      "achievements": [
+        "Gutierrez Hospital: Designed brand manual and brand guidelines for a well established volunteer service of a public hospital. \n View: https://www.behance.net/gallery/152780691/Manual-de-Marca-Voluntarias-del-Hospital-Gutierrez",
+        "SPIKA Brewery: Designed a beer can for an emerging brewery in Argentina. \n View: https://www.behance.net/gallery/175796205/Beer-can-design-Spika-Beer-Company",
+        "Designed stationery, flyers, book covers, banners, signs and clothing for a diverse range of clients."
+      ],
+      "skills": [
+        "Graphic design",
+        "Adobe CC Suite",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Photography"
       ]
     }
   ],
@@ -195,40 +208,33 @@
     "endDate": "2024-02-01",
     "summary": "Volunteer coach for the YES Kickstart events in the Wellington Region. Acted as a personal entrepreneurship coach for teams of high school students in the YES program, conducting three coaching sessions.",
     "highlights": [
-      "Assisted over 50 students."
+      "Assisted over 50 students over the course of sessions."
     ]
-  },{
+  }, {
     "organization": "Otto Krause International Foundation",
     "position": "Web Developer",
     "url": "https://okif.org/",
     "startDate": "2022-03-01",
     "endDate": "2024-09-01",
-    "summary": "Developed the okif.org webpage for the foundation, which aims to network and empower graduates from the Otto Krause High School in Buenos Aires worldwide. Additionally, led the development of the organization’s internal database, including its API integration.",
-    "highlights": [
-      "XXXXXXXXXX"
-    ]
+    "summary": "Developed the okif.org webpage for the foundation, which aims to network and empower graduates from the Otto Krause High School in Buenos Aires worldwide. Additionally, led the development of the organization’s internal database, including its API integration."
   }],
   "education": [{
       "institution": "Catholic University of Argentina",
       "url": "https://uca.edu.ar/",
       "area": "Communications",
       "studyType": "Bachelor",
+      "startDate": "2021-03-01",
       "endDate": "2021-12-01",
-      "score": "XXXXXXXXXXXXXX",
-      "courses": [
-        "XXXXXXXXXX"
-      ]
+      "score": "8.69 / 10"
     },
     {
       "institution": "DaVinci School",
       "url": "https://davinci.edu.ar/",
       "area": "Multimedia Design",
       "studyType": "Tertiary",
+      "startDate": "2017-03-01",
       "endDate": "2020-12-01",
-      "score": "XXXXXXXX",
-      "courses": [
-        "XXXXXXXXXX"
-      ]
+      "score": "9.55 / 10"
     }
   ],
   "certificates": [{
@@ -236,27 +242,42 @@
     "date": "2020-01-01",
     "issuer": "Coderhouse",
     "url": "https://www.coderhouse.com/global/"
+  }, {
+    "name": "Professional Testing Master",
+    "date": "2022-09-01",
+    "issuer": "National Techological Universty",
+    "url": "https://sceu.frba.utn.edu.ar/e-learning/detalle/curso/486/professional-testing-master?id=999194909"
   }],
   "skills": [{
       "name": "Figma",
-      "level": "Expert",
+      "level": "Intermediate",
+      "keywords": [
+        "Design",
+        "UI"
+      ]
+    }, {
+      "name": "Adobe XD",
+      "level": "Intermediate",
       "keywords": [
         "Design",
         "UI"
       ]
     },
     {
-      "name": "Gitlab",
+      "name": "Git",
       "level": "Intermediate",
       "keywords": [
         "Version Control",
         "Collaboration",
-        "Source Code"
+        "Source Code",
+        "Github",
+        "Gitlab",
+        "Git"
       ]
     },
     {
       "name": "HTML",
-      "level": "Intermediate",
+      "level": "Expert",
       "keywords": [
         "Web Development",
         "Frontend"
@@ -264,7 +285,7 @@
     },
     {
       "name": "CSS",
-      "level": "Intermediate",
+      "level": "Expert",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -273,7 +294,7 @@
     },
     {
       "name": "JavaScript",
-      "level": "Intermediate",
+      "level": "Advanced",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -282,28 +303,18 @@
       ]
     },
     {
-      "name": "Tailwind",
+      "name": "PHP",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
         "Backend",
-        "JavaScript Superset"
+        "Fullstack",
+        "API"
       ]
     },
     {
       "name": "Node",
-      "level": "Intermediate",
+      "level": "Beginner",
       "keywords": [
         "Web Development",
         "Backend",
@@ -322,107 +333,78 @@
       ]
     },
     {
-      "name": "Git",
-      "level": "Intermediate",
+      "name": "Adobe CC Suite",
+      "level": "Expert",
       "keywords": [
-        "Version Control",
+        "Design",
         "Collaboration",
         "Source Code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
       ]
     }
   ],
   "languages": [{
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Advanced"
     },
     {
       "language": "Spanish",
-      "fluency": "Intermediate"
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Portugues",
+      "fluency": "Beginner"
     }
   ],
   "interests": [{
-    "name": "Technology",
-    "keywords": [
-      "AI",
-      "Blockchain"
-    ]
-  }],
+      "name": "Technology",
+      "keywords": [
+        "AI",
+        "VR",
+        "AR"
+      ]
+    },
+    {
+      "name": "Web Design",
+      "keywords": [
+        "Frontend",
+        "Responsive",
+        "Design",
+        "Interactive",
+        "Interaction"
+      ]
+    }, {
+      "name": "Digital Art",
+      "keywords": [
+        "3D",
+        "Photoshop",
+        "Graphic design",
+        "Design"
+      ]
+    }
+  ],
   "references": [{
-    "name": "Jane Smith",
+    "name": "Diego Colombres",
     "reference": "Reference…"
   }],
   "projects": [{
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
-      "isActive": true,
-      "description": "A web application that provides weather information for any location.",
-      "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
-      ],
-      "url": "https://weatherapp.com"
-    },
-    {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
-      "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
-      ],
-      "url": "https://ecommerce.com"
-    }
-  ]
+    "name": "Personal Portfolio as Web designer",
+    "isActive": false,
+    "description": "A personal portfolio focusing on my UI and web skills",
+    "highlights": [
+      "Designed in Figma",
+      "Built with plain Js and Css"
+    ],
+    "url": "http://ui.marioa.me/",
+    "github": "XXXXXXXXXXXXXXXX"
+  }, {
+    "name": "Personal Portfolio as a generalist designer",
+    "isActive": true,
+    "description": "A personal portfolio website to showcase my projects and skills.",
+    "highlights": [
+      "Built with plain Js and Css",
+      "Includes my projects categorized, and a little integration with Hugging face's GPT2"
+    ],
+    "url": "http://marioa.me/",
+    "github": "https://github.com/imperioame/website_julian_2023"
+  }]
 }
