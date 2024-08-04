@@ -21,6 +21,11 @@
         "url": "https://www.linkedin.com/in/julian-ame/"
       },
       {
+        "network": "Behance",
+        "username": "imperioame",
+        "url": "https://www.behance.net/imperioame"
+      },
+      {
         "network": "GitHub",
         "username": "imperioame",
         "url": "https://github.com/imperioame"
@@ -173,7 +178,7 @@
         "Live streaming",
         "Stakeholder management"
       ]
-    },    {
+    }, {
       "name": "Freelance",
       "position": "Graphic Designer",
       "location_type": "Remote",
@@ -256,7 +261,7 @@
         "UI"
       ]
     }, {
-      "name": "Adobe XD",
+      "name": "AdobeXD",
       "level": "Intermediate",
       "keywords": [
         "Design",
