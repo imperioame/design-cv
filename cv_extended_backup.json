@@ -97,6 +97,39 @@
       ]
     },
     {
+      "name": "Argentine Ministry of Economy",
+      "position": "Sr. QA Tester",
+      "location_type": "On Site",
+      "url": "https://www.argentina.gob.ar/economia",
+      "location": "Buenos Aires, Argentina",
+      "startDate": "2020-06-01",
+      "endDate": "2023-09-01",
+      "summary": "Leader of the QA unit for an IT office in Government. I’ve built and developed the team from inception to serve as a pivotal point for all programs and developments within the office.",
+      "highlights": [
+        "Established a QA unit that enhanced the entire development process."
+      ],
+      "responsibilities": [
+        "Conducted thorough testing of public policy systems to identify defects, ensure functionality, and enhance user experience.",
+        "Developed and executed comprehensive test plans.",
+        "Collaborated with cross-functional teams of developers, designers, business and function analysts and product owners to understand project requirements and ensure alignment with quality standards.",
+        "Provided guidance on testing best practices, documentation standards, and process improvements to optimize efficiency."
+      ],
+      "achievements": [
+        "Successfully led a manual testing team of three analysts and one automation test developer, establishing efficient testing processes and protocols.",
+        "Contributed to the quality assurance of 15 versions of a nationwide public system, dedicated to categorize and certify 95% of all SMEs in Argentina. \n Official website: https://www.argentina.gob.ar/servicio/registrar-una-pyme",
+        "Played a critical role over 30 versions improving the quality of a multi-million-peso nationwide public system, that facilitates the allocation of bonds to capital goods manufacturers in Argentina. \n Official website: https://www.argentina.gob.ar/servicio/inscribite-en-el-registro-para-fabricantes-de-bienes-de-capital",
+        "Assisted PM/POs with client management, addressing high rejection rates over all the programs involved, enhancing relationships by implementing stricter standards for the quantity and severity of defect reports permitted in each QA stance."
+      ],
+      "skills": [
+        "Manual testing",
+        "Automation testing",
+        "Project management",
+        "Team leading",
+        "Agile methodology",
+        "Stakeholder management"
+      ]
+    },
+    {
       "name": "Landrú Foundation",
       "position": "Digital Product Coordinator",
       "location_type": "Remote",
@@ -366,7 +399,8 @@
       "Designed in Figma",
       "Built with plain Js and Css"
     ],
-    "url": "http://ui.marioa.me/"
+    "url": "http://ui.marioa.me/",
+    "github": "XXXXXXXXXXXXXXXX"
   }, {
     "name": "Personal Portfolio as a generalist designer",
     "isActive": true,
