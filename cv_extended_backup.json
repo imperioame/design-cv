@@ -9,11 +9,11 @@
     "summary": "I'm a passionate Designer driven by curiosity and a love for creating engaging digital experiences. Known for wearing many hats and innovative problem-solving, I blend artistic vision with technical expertise in various successful projects. Beyond work, I explore new technologies and art forms, from game development to 3D art and photography. Always excited to connect and bring creative visions to life together.",
     "theme": "default",
     "location": {
-      "address": "330D Pencarrow Road",
+      "address": "",
       "postalCode": "",
-      "city": "Hamilton",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "city": "Amersfoort",
+      "countryCode": "NL",
+      "region": "Netherland"
     },
     "profiles": [{
         "network": "LinkedIn",
@@ -224,24 +224,24 @@
     "summary": "Developed the okif.org webpage for the foundation, which aims to network and empower graduates from the Otto Krause High School in Buenos Aires worldwide. Additionally, led the development of the organization’s internal database, including its API integration."
   }],
   "education": [{
-      "institution": "Catholic University of Argentina",
-      "url": "https://uca.edu.ar/",
-      "area": "Communications",
-      "studyType": "Bachelor",
-      "startDate": "2021-03-01",
-      "endDate": "2021-12-01",
-      "score": "8.69 / 10"
-    },
-    {
-      "institution": "DaVinci School",
-      "url": "https://davinci.edu.ar/",
-      "area": "Multimedia Design",
-      "studyType": "Tertiary",
-      "startDate": "2017-03-01",
-      "endDate": "2020-12-01",
-      "score": "9.55 / 10"
-    }
-  ],
+    "institution": "Catholic University of Argentina",
+    "url": "https://uca.edu.ar/",
+    "area": "Communications",
+    "studyType": "Bachelor's degree",
+    "startDate": "2021-03-01",
+    "endDate": "2021-12-01",
+    "score": "8.69 / 10"
+  },
+  {
+    "institution": "DaVinci School",
+    "url": "https://davinci.edu.ar/",
+    "area": "Multimedia Design",
+    "studyType": "Tertiary degree",
+    "startDate": "2017-03-01",
+    "endDate": "2020-12-01",
+    "score": "9.55 / 10"
+  }
+],
   "certificates": [{
     "name": "UX/UI Design",
     "date": "2020-01-01",
