@@ -18,6 +18,9 @@ import Kotlin from "@/icons/kotlin.astro";
 import Flutter from "@/icons/flutter.astro";
 import Figma from "@/icons/Figma.astro";
 import Gitlab from "@/icons/Gitlab.astro";
+import AdobeXD from "@/icons/adobexd.astro";
+import PHP from "@/icons/php.astro";
+import Adobe_CC_Suite from "@/icons/adobe_cc_suite.astro";
 
 const SKILLS_ICONS: Record<string, any> = {
 	HTML,
@@ -37,6 +40,9 @@ const SKILLS_ICONS: Record<string, any> = {
 	Flutter,
 	Figma,
 	Gitlab,
+	AdobeXD,
+	PHP,
+	Adobe_CC_Suite,
 };
 ---
 
@@ -44,7 +50,16 @@ const SKILLS_ICONS: Record<string, any> = {
 	<ul class="[&>li>svg]:text-skin-hue inline-flex flex-wrap gap-6 [&>li>svg]:size-5 [&>li]:text-sm">
 		{
 			skills.map(({ name }) => {
-				const iconName = name === "Next.js" ? "Next" : name;
+				let iconName;
+				switch (name) {
+					case "Next.js": iconName = "Next";
+					break;
+					case "Adobe CC Suite": iconName = "Adobe_CC_Suite";
+					break;
+					default: iconName = name;
+					break;
+				}
+
 				const Icon = SKILLS_ICONS[iconName];
 
 				return (
