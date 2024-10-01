@@ -6,11 +6,11 @@
     "email": "Hello@MarioA.me",
     "phone": "+54 911-5981-8605",
     "url": "http://MarioA.me",
-    "summary": "I'm a passionate Designer driven by curiosity and a love for creating engaging digital experiences. Known for wearing many hats and innovative problem-solving, I blend artistic vision with technical expertise in various successful projects. Beyond work, I explore new technologies and art forms, from game development to 3D art and photography. Always excited to connect and bring creative visions to life together.",
+    "summary": "As a passionate digital designer, I blend creativity and technology to craft impactful user experiences. My expertise spans UI/UX design and multimedia content, collaborating with cross-functional teams to create innovative solutions. I prioritize functionality and user satisfaction while pushing creative boundaries. With experience in leading QA initiatives and producing engaging audiovisual content, I adapt to various challenges. My goal is to create innovative digital experiences that inspire and connect users with brands, driving meaningful interactions in the digital landscape.",
     "theme": "css",
     "location": {
       "address": "",
-      "postalCode": "",
+      "postalCode": "3811 BA",
       "city": "Amersfoort",
       "countryCode": "NL",
       "region": "Netherland"
@@ -39,13 +39,12 @@
       "location": "New Zealand",
       "url": "https://www.behance.net/imperioame",
       "startDate": "2023-011-01",
-      "endDate": null,
-      "summary": "I have participated in several design projects while traveling throughout New Zealand, enhancing my client relationship skills by adapting to NZ's culture.",
+      "endDate": "2024-09-01",
+      "summary": "Led various design projects, strengthening client relationships by adapting to local culture. Managed projects and accounts, handling commercial negotiations and delivering end-to-end graphic and web design solutions.",
       "highlights": [
         "Stay current in design by challenging myself to produce compelling outcomes."
       ],
       "responsibilities": [
-        "Client and project management",
         "End-to-end graphic and web design",
         "Project and Account Management, including commercial negotiations with clients"
       ],
@@ -58,7 +57,16 @@
         "Graphic design",
         "Web design",
         "Adobe Photoshop",
-        "Adobe Illustrator"
+        "Adobe Illustrator",
+        "HTML/CSS",
+        "Adobe CC Suite",
+        "Adobe InDesign",
+        "Adobe Premiere",
+        "Adobe Illustrator",
+        "Photography",
+        "Video editing",
+        "Multimedia design",
+        "Audiovisual design"
       ]
     },
     {
@@ -81,7 +89,8 @@
       ],
       "achievements": [
         "Compromiso Foundation: Co-designed the concept for the award-winning advertising campaign #PoniendoseLaCamisetaDelFuturo by @PotreroDigital.",
-        "Da Vinci School: Co-produced the audiovisual pieces for BitBang-Fest 2020 and developed the visual identity, branding, and graphic and audiovisual content for social networks, YouTube, and the internal streaming platform."
+        "Da Vinci School: Co-produced the audiovisual pieces for BitBang-Fest 2020 and developed the visual identity, branding, and graphic and audiovisual content for social networks, YouTube, and the internal streaming platform.",
+        "Domingo Granja S.A.: Coordinated end to end project, from hiring designers through developing the full planning. Successfully launched the re-branding and Brand Manual including clothing and signage applications, and a new institutional website."
       ],
       "skills": [
         "Multimedia design",
@@ -93,7 +102,10 @@
         "Post production",
         "Team leading",
         "Web design",
-        "HTML/CSS"
+        "HTML/CSS",
+        "JavaScript",
+        "Front-end development",
+        "Project management"
       ]
     },
     {
@@ -106,16 +118,17 @@
       "endDate": "2022-07-01",
       "summary": "Head of the Digital office, leading the development of its main product, the 'Landrú library,' a repository of the artist's artwork.",
       "responsibilities": [
-        "Worked closely with the Foundation Director to assist in the ideation of the Landrú's digital presence, including defining the scope of IT and multimedia projects.",
-        "Coordinated the effort of a small team composed by two developers, a functional analyst, and a UI designer to deliver on project goals and milestones in time.",
-        "Carried out the technical feasibility of both proposals and projects, determining roles and skills that were required to deliver each project."
+        "Led the development and launch of the Landrú Library ('Landruteca), a digital repository showcasing the artist’s artwork and comics.",
+        "Collaborated closely with the Foundation Director to define and manage the scope of IT, multimedia, and digital design projects, ensuring alignment with organizational goals.",
+        "Directed a multidisciplinary team of developers, analysts, and a UI designer, coordinating efforts to meet project milestones and ensuring on-time delivery.",
+        "Conducted technical feasibility assessments for digital projects, identifying key roles and skills necessary for project completion."
       ],
       "achievements": [
-        "Implemented 'Landruteca' version 2, an online internal library housing the artist's artwork and comics for corporate distribution. This updated version offers easily categorized access for media implementation, facilitating access to the extensive artwork library for the organization's staff.",
-        "Implemented the organization’s official website, landru.org, revitalizing its online presence and adopting a newspaper-style approach to reconnect with the traditionalist audience."
+        "Successfully launched Landruteca v2, enhancing access to the artist's work with an updated interface and categorized content, facilitating media distribution and internal use.",
+        "Revitalized the organization’s digital presence by implementing the official website, landru.org, which adopted a newspaper-style format to engage both modern and traditional audiences."
       ],
       "skills": [
-        "Project management",
+        "Digital Project management",
         "Team leading",
         "Agile methodology",
         "Stakeholder management",
@@ -132,18 +145,22 @@
       "endDate": "2018-04-01",
       "summary": "Producer for a government program aimed to provide webinars of topics of interest for SMEs.",
       "responsibilities": [
-        "Conducting virtual training (webinars) for the 'Academia PyME' Program (https://www.argentina.gob.ar/produccion/capacitacion).",
-        "Coordinating activity schedules, trainers/coaches for each session, and providing technical assistance for the operation of live streaming platforms."
+        "Produced and facilitated virtual training sessions (webinars) for the Academia PyME Program, focusing on essential topics for small and medium enterprises (SMEs). Academia PyME Program: https://www.argentina.gob.ar/produccion/capacitacion.",
+        "Coordinated scheduling and logistics, including selecting trainers/coaches for each session and providing technical assistance for live streaming platforms."
       ],
       "achievements": [
-        "Collaborated in the implementation of a fast-paced schedule, delivering three online webinars per week across various topics and trainers.",
-        "Received national recognition for the success of our activities from Senior stakeholders at national wide scale."
+        "Collaborated in the successful implementation of a dynamic schedule, delivering three online webinars per week across various topics, enhancing training accessibility for SMEs.",
+        "Earned national recognition for the program's success from senior stakeholders, showcasing the positive impact on SME development nationwide."
       ],
       "skills": [
         "Event management",
         "Streaming technician",
         "Live streaming",
-        "Stakeholder management"
+        "Stakeholder management",
+        "Webinar Production",
+        "Technical support",
+        "Team Collaboration",
+        "Visual training facilitation"
       ]
     }, {
       "name": "Freelance",
@@ -155,20 +172,22 @@
       "url": "https://behance.net/imperioame",
       "summary": "Worked closely with clients, I’ve developed tailored solutions including Banners, book covers, stationery, brand books and more.",
       "responsibilities": [
-        "Provide tailored visual solutions for diverse clients, enhancing brand recognition.",
-        "Manage full project lifecycles, ensuring timely delivery and budget adherence."
+        "Collaborated with clients to create tailored visual solutions, enhancing brand recognition and engagement through high-quality designs.",
+        "Managed the complete project lifecycle from initial concept to final delivery, ensuring adherence to timelines and budgets."
       ],
       "achievements": [
-        "Gutierrez Hospital: Designed brand manual and brand guidelines for a well established volunteer service of a public hospital. \n View: https://www.behance.net/gallery/152780691/Manual-de-Marca-Voluntarias-del-Hospital-Gutierrez",
-        "SPIKA Brewery: Designed a beer can for an emerging brewery in Argentina. \n View: https://www.behance.net/gallery/175796205/Beer-can-design-Spika-Beer-Company",
-        "Designed stationery, flyers, book covers, banners, signs and clothing for a diverse range of clients."
+        "Gutierrez Hospital: Developed a comprehensive brand manual and guidelines for a prominent volunteer service within a public hospital, strengthening their visual identity. \n View: https://www.behance.net/gallery/152780691/Manual-de-Marca-Voluntarias-del-Hospital-Gutierrez",
+        "SPIKA Brewery: Created an eye-catching beer can design for an emerging brewery in Argentina, contributing to their market presence. \n View: https://www.behance.net/gallery/175796205/Beer-can-design-Spika-Beer-Company",
+        "Designed various promotional materials including stationery, flyers, book covers, banners, signs, and clothing for a diverse clientele."
       ],
       "skills": [
         "Graphic design",
         "Adobe CC Suite",
         "Adobe Photoshop",
         "Adobe Illustrator",
-        "Photography"
+        "Photography",
+        "HTML/CSS",
+        "JavaScript"
       ]
     }
   ],
